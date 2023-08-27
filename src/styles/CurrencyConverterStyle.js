@@ -52,7 +52,7 @@ export const currencyConverterStyles = StyleSheet.create({
     position: "absolute",
     marginTop: responsiveScreenHeight(4.5),
     marginLeft: responsiveScreenWidth(6),
-    color: ColorTheme.eerieBlack,
+    color: "#fff",
   },
   priceTitle: {
     fontFamily: "Archivo-ExtraBold",
