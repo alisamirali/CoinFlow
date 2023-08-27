@@ -84,7 +84,7 @@ const CurrencyConverter = () => {
                 setCryptocurrencyPrice(parseFloat(value))
               }
               style={[currencyConverterStyles.input]}
-              className="px-5 mt-4"
+              className="px-10 mt-4"
               keyboardType="numeric"
               placeholder="Enter USD value of currency"
               placeholderTextColor={ColorTheme.grey}
